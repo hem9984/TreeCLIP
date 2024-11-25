@@ -1,3 +1,8 @@
+# TODO
+* LORA
+* Logic for tree leaf creation
+* Define loss as 
+
 # An Inverse Scaling Law for CLIP Training
 
 This repo contains official Pytorch and JAX implementation of **CLIPA** in our paper: [An Inverse Scaling Law for CLIP Training](https://arxiv.org/abs/2305.07017) 
